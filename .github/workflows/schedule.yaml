@@ -1,0 +1,22 @@
+name: Cron job
+
+on:
+  schedule:
+    - cron: '*/2 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Python script
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - run: |
+        pip install -r requirements.txt
+        python main.py
+    - name: Send Slack message
+      uses: actions/slack-message@v1
+      with:
+        args: ${{ secrets.SLACK_WEBHOOK_URL }} "CM4 modules are now available!"

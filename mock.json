@@ -1,0 +1,2784 @@
+{
+	"data": [
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4292",
+			"last_stock": {
+				"sort": "2022-12-09",
+				"display": "09-Dec-22"
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 25,
+				"display": "25.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI3-MODAP",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-3-model-a-plus-512mb-ram/",
+			"last_stock": {
+				"sort": "2022-12-07",
+				"display": "07-Dec-22"
+			},
+			"description": "RPi 3 Model A+ - 512MB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4101016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-1gb-16gb-cm4101016/",
+			"last_stock": {
+				"sort": "2022-11-29",
+				"display": "29-Nov-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/18713",
+			"last_stock": {
+				"sort": "2022-11-23",
+				"display": "23-Nov-22"
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/5291",
+			"last_stock": {
+				"sort": "2022-11-17",
+				"display": "17-Nov-22"
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 30,
+				"display": "30.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4001000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0695/13530942",
+			"last_stock": {
+				"sort": "2022-11-16",
+				"display": "16-Nov-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4102016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-16gb-cm4102016/",
+			"last_stock": {
+				"sort": "2022-10-28",
+				"display": "28-Oct-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4101032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0694/13530925",
+			"last_stock": {
+				"sort": "2022-10-28",
+				"display": "28-Oct-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 90,
+				"display": "90.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4008032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-8gb-32gb-cm4008032/",
+			"last_stock": {
+				"sort": "2022-10-27",
+				"display": "27-Oct-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "RPI4-MODBP-1GB",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4295",
+			"last_stock": {
+				"sort": "2022-10-26",
+				"display": "26-Oct-22"
+			},
+			"description": "RPi 4 Model B - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/15446",
+			"last_stock": {
+				"sort": "2022-10-14",
+				"display": "14-Oct-22"
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 95,
+				"display": "95.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4108032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-8gb-32gb-cm4108032/",
+			"last_stock": {
+				"sort": "2022-10-12",
+				"display": "12-Oct-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4008000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-8gb-lite-cm4008000/",
+			"last_stock": {
+				"sort": "2022-10-05",
+				"display": "05-Oct-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 85,
+				"display": "85.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4008016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-8gb-16gb-cm4008016/",
+			"last_stock": {
+				"sort": "2022-09-19",
+				"display": "19-Sep-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4564",
+			"last_stock": {
+				"sort": "2022-09-14",
+				"display": "14-Sep-22"
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 36.38,
+				"display": "36.38",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "RPI4-MODBP-1GB",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-4-model-b",
+			"last_stock": {
+				"sort": "2022-09-02",
+				"display": "02-Sep-22"
+			},
+			"description": "RPi 4 Model B - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 80,
+				"display": "80.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4108000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-8gb-lite-cm4108000/",
+			"last_stock": {
+				"sort": "2022-09-01",
+				"display": "01-Sep-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 90,
+				"display": "90.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4108016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-8gb-16gb-cm4108016/",
+			"last_stock": {
+				"sort": "2022-08-29",
+				"display": "29-Aug-22"
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/15447",
+			"last_stock": {
+				"sort": "2022-08-26",
+				"display": "26-Aug-22"
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/16811",
+			"last_stock": {
+				"sort": "2022-08-23",
+				"display": "23-Aug-22"
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM4104032",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4982",
+			"last_stock": {
+				"sort": "2022-08-11",
+				"display": "11-Aug-22"
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4101008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-1gb-8gb-cm4101008/",
+			"last_stock": {
+				"sort": "2022-08-03",
+				"display": "03-Aug-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4002016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0681/13530931",
+			"last_stock": {
+				"sort": "2022-07-28",
+				"display": "28-Jul-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/RASPBERRY-PI-4-MODEL-B-8G/12159401",
+			"last_stock": {
+				"sort": "2022-07-07",
+				"display": "07-Jul-22"
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 33,
+				"display": "33.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM3+8GB",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4094",
+			"last_stock": {
+				"sort": "2022-06-28",
+				"display": "28-Jun-22"
+			},
+			"description": "RPi CM3+ - 1GB RAM, 8GB MMC"
+		},
+		{
+			"update_t": {
+				"sort": 128841,
+				"display": "128841 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "OKDO (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://www.okdo.com/us/p/raspberry-pi-zero-2-w/",
+			"last_stock": {
+				"sort": "2022-06-23",
+				"display": "23-Jun-22"
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4101016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0693/13530916",
+			"last_stock": {
+				"sort": "2022-06-18",
+				"display": "18-Jun-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 60,
+				"display": "60.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4104008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-4gb-8gb-cm4104008/",
+			"last_stock": {
+				"sort": "2022-06-09",
+				"display": "09-Jun-22"
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4002032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-2gb-32gb-cm4002032/",
+			"last_stock": {
+				"sort": "2022-06-09",
+				"display": "09-Jun-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 30,
+				"display": "30.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4001000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-1gb-lite-cm4001000/",
+			"last_stock": {
+				"sort": "2022-05-28",
+				"display": "28-May-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4102008",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17391",
+			"last_stock": {
+				"sort": "2022-05-20",
+				"display": "20-May-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/Raspberry-Pi-4B-4GB/10258781",
+			"last_stock": {
+				"sort": "2022-05-19",
+				"display": "19-May-22"
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 60,
+				"display": "60.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4104008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0672/13530941",
+			"last_stock": {
+				"sort": "2022-05-13",
+				"display": "13-May-22"
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4296",
+			"last_stock": {
+				"sort": "2022-05-12",
+				"display": "12-May-22"
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/",
+			"last_stock": {
+				"sort": "2022-05-05",
+				"display": "05-May-22"
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4102008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-8gb-cm4102008/",
+			"last_stock": {
+				"sort": "2022-04-30",
+				"display": "30-Apr-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-4-model-b-2gb/",
+			"last_stock": {
+				"sort": "2022-04-29",
+				"display": "29-Apr-22"
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 70,
+				"display": "70.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4104032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-4gb-32gb-cm4104032/",
+			"last_stock": {
+				"sort": "2022-04-29",
+				"display": "29-Apr-22"
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 70,
+				"display": "70.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4104032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0674/13530933",
+			"last_stock": {
+				"sort": "2022-04-28",
+				"display": "28-Apr-22"
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Chicago Elec. Dist. (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://chicagodist.com/products/raspberry-pi-4-model-b-2gb",
+			"last_stock": {
+				"sort": "2022-04-21",
+				"display": "21-Apr-22"
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4001008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-1gb-8gb-cm4001008/",
+			"last_stock": {
+				"sort": "2022-04-09",
+				"display": "09-Apr-22"
+			},
+			"description": "RPi CM4 - 1GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/3775",
+			"last_stock": {
+				"sort": "2022-03-31",
+				"display": "31-Mar-22"
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 105.51,
+				"display": "105.51",
+				"currency": "USD"
+			},
+			"vendor": "OKDO (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://www.okdo.com/us/p/raspberry-pi-3-model-b/",
+			"last_stock": {
+				"sort": "2022-03-29",
+				"display": "29-Mar-22"
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM4102016",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4791",
+			"last_stock": {
+				"sort": "2022-03-24",
+				"display": "24-Mar-22"
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/RASPBERRY-PI-3-MODEL-B/8571724",
+			"last_stock": {
+				"sort": "2022-03-23",
+				"display": "23-Mar-22"
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-zero-2-w/",
+			"last_stock": {
+				"sort": "2022-03-18",
+				"display": "18-Mar-22"
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-4-4gb-ram",
+			"last_stock": {
+				"sort": "2022-03-15",
+				"display": "15-Mar-22"
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-4-model-b-8gb-ram",
+			"last_stock": {
+				"sort": "2022-03-14",
+				"display": "14-Mar-22"
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 25,
+				"display": "25.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM3+Lite",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4093",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM3+ - 1GB RAM, No MMC"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 25,
+				"display": "25.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM4001000",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4782",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 25,
+				"display": "25.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4001000",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17364",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4001008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0696/13530919",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4001016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0697/13530922",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4001016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-1gb-16gb-cm4001016/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4001032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0698/13530915",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4001032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-1gb-32gb-cm4001032/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4002000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0679/13530945",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4002000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-2gb-lite-cm4002000/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4002008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0680/13530940",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 218638,
+				"display": "218638 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Newark (US)",
+			"sku": "CM4002008",
+			"avail": "No",
+			"link": "https://www.newark.com/86AH2075",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4002008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-2gb-8gb-cm4002008/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4002008",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17284",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4002016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-2gb-16gb-cm4002016/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4002016",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17390",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4002032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0682/13530930",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4004000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0683/13530923",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4004000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-4gb-lite-cm4004000/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4004008",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173648117854",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4004008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0684/13530929",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4004008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-4gb-8gb-cm4004008/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4004016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173648150622",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 60,
+				"display": "60.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4004016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0685/13530934",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 60,
+				"display": "60.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4004016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-4gb-16gb-cm4004016/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4004032",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173648183390",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4004032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0686/13530938",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 218638,
+				"display": "218638 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Newark (US)",
+			"sku": "CM4004032",
+			"avail": "No",
+			"link": "https://www.newark.com/40AJ6742",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4004032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-4gb-32gb-cm4004032/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4008000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0687/13530926",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, No MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4008008",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652574302",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 80,
+				"display": "80.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4008008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0688/13530924",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 80,
+				"display": "80.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4008008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-8gb-8gb-cm4008008/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4008016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652607070",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 85,
+				"display": "85.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4008016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0689/13530943",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4008032",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652639838",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 90,
+				"display": "90.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4008032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0690/13530935",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 32GB MMC, No Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4101000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0691/13530946",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4101000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-1gb-lite-cm4101000/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4101008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0692/13530928",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4101032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-1gb-32gb-cm4101032/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 1GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4102000",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-2gb-ram?variant=32173597032542",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM4102000",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4788",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4102000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0667/13530921",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4102000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-lite-cm4102000/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4102000",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17384",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4102008",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-2gb-ram?variant=32173597065310",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 40,
+				"display": "40.00",
+				"currency": "USD"
+			},
+			"vendor": "Adafruit (US)",
+			"sku": "CM4102008",
+			"avail": "No",
+			"link": "https://www.adafruit.com/product/4790",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4102008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0668/13530939",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4102016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-2gb-ram?variant=32173597098078",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4102016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0669/13530918",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4102032",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-2gb-ram?variant=32173597130846",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4102032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0670/13530937",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4102032",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-32gb-cm4102032/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4102032",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/18351",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 2GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4104000",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173647954014",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 192037,
+				"display": "192037 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4104000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0671/13530944",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4104000",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-4gb-lite-cm4104000/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4104008",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173647986782",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4104016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173648019550",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 192037,
+				"display": "192037 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4104016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0673/13530936",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 218638,
+				"display": "218638 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Newark (US)",
+			"sku": "CM4104016",
+			"avail": "No",
+			"link": "https://www.newark.com/86AH2105",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4104016",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-4gb-16gb-cm4104016/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 50,
+				"display": "50.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4104032",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-4gb-ram?variant=32173648052318",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 65,
+				"display": "65.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "CM4104032",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/17392",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 4GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4108000",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652410462",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 80,
+				"display": "80.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4108000",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0675/13530932",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, No MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4108008",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652443230",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 85,
+				"display": "85.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4108008",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0676/13530920",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 85,
+				"display": "85.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "CM4108008",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-8gb-8gb-cm4108008/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 8GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4108016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652475998",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "CM4108016",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-compute-module-4-8gb-ram?variant=32173652508766",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 90,
+				"display": "90.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4108016",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0677/13530927",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 16GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 95,
+				"display": "95.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "CM4108032",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0678/13530917",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi CM4 - 8GB RAM, 32GB MMC, With Wifi"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-3-b-motherboard",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-3-model-b-plus/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Sparkfun (US)",
+			"sku": "RPI3-MODBP",
+			"avail": "No",
+			"link": "https://www.sparkfun.com/products/14643",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 3 Model B+ - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Chicago Elec. Dist. (US)",
+			"sku": "RPI4-MODBP-1GB",
+			"avail": "No",
+			"link": "https://chicagodist.com/collections/raspberry-pi/products/raspberry-pi-4-model-b-1gb",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 35,
+				"display": "35.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI4-MODBP-1GB",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-4-model-b-1gb/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 1GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 45.28,
+				"display": "45.28",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-4-2gb-ram",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/Raspberry-Pi-4B-2GB/10258782",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 218638,
+				"display": "218638 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "Newark (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.newark.com/02AH3162",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 1,
+				"display": "1 min."
+			},
+			"price": {
+				"sort": 45,
+				"display": "45.00",
+				"currency": "USD"
+			},
+			"vendor": "OKDO (US)",
+			"sku": "RPI4-MODBP-2GB",
+			"avail": "No",
+			"link": "https://www.okdo.com/us/p/raspberry-pi-4-model-b-2gb-2/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 2GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Chicago Elec. Dist. (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://chicagodist.com/products/raspberry-pi-4-model-b-4gb",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 218638,
+				"display": "218638 min."
+			},
+			"price": {
+				"sort": 55,
+				"display": "55.00",
+				"currency": "USD"
+			},
+			"vendor": "Newark (US)",
+			"sku": "RPI4-MODBP-4GB",
+			"avail": "No",
+			"link": "https://www.newark.com/02AH3164",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 4GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Chicago Elec. Dist. (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://chicagodist.com/products/raspberry-pi-4-model-b-8gb",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 196855,
+				"display": "196855 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "OKDO (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://www.okdo.com/us/p/raspberry-pi-4-model-b-8gb-ram/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 0,
+				"display": "0 min."
+			},
+			"price": {
+				"sort": 75,
+				"display": "75.00",
+				"currency": "USD"
+			},
+			"vendor": "Pishop (US)",
+			"sku": "RPI4-MODBP-8GB",
+			"avail": "No",
+			"link": "https://www.pishop.us/product/raspberry-pi-4-model-b-8gb/",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "RPi 4 Model B - 8GB RAM"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Chicago Elec. Dist. (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://chicagodist.com/products/raspberry-pi-zero-2",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 2,
+				"display": "2 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Vilros (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://vilros.com/products/raspberry-pi-zero-2-w",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		},
+		{
+			"update_t": {
+				"sort": 345958,
+				"display": "345958 min."
+			},
+			"price": {
+				"sort": 15,
+				"display": "15.00",
+				"currency": "USD"
+			},
+			"vendor": "Digi-Key (US)",
+			"sku": "SC0510",
+			"avail": "No",
+			"link": "https://www.digikey.com/en/products/detail/raspberry-pi/SC0510/15298147",
+			"last_stock": {
+				"sort": "",
+				"display": ""
+			},
+			"description": "Raspberry Pi Zero 2 W"
+		}
+	]
+}
