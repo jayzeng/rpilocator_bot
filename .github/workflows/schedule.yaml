@@ -17,7 +17,12 @@ jobs:
     - run: |
         pip install -r requirements.txt
         python main.py
-    - name: Send Slack message
-      uses: actions/slack-message@v1
-      with:
-        args: ${{ secrets.SLACK_WEBHOOK_URL }} "CM4 modules are now available!"
+        - name: Slack Notification
+    - name: Slack Notification 
+      uses: rtCamp/action-slack-notify@v2
+      env:
+        SLACK_CHANNEL: 
+        SLACK_COLOR: ${{ job.status }} 
+        SLACK_ICON: https://github.com/rtCamp.png?size=48
+        SLACK_MESSAGE: 'CM4 is available! :rocket:'
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
