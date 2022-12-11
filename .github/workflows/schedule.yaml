@@ -3,6 +3,7 @@ name: Cron job
 on:
   schedule:
     - cron: '*/2 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
