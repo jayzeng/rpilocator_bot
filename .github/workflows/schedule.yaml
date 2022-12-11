@@ -10,14 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Run Python script
-      uses: actions/setup-python@v2
+    - uses: actions/setup-python@v4
       with:
-        python-version: 3.8
+        python-version: '3.9'
+        cache: 'pip' # caching pip dependencies
+    - run: pip install -r requirements.txt
     - run: |
-        pip install -r requirements.txt
         python main.py
-        - name: Slack Notification
     - name: Slack Notification 
       uses: rtCamp/action-slack-notify@v2
       env:
