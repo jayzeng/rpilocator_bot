@@ -46,7 +46,7 @@ def get_products(res, models):
     return format_items(matching_items)
 
 def main(models):
-    is_mock = os.environ.get("IS_MOCK") or True
+    is_mock = os.environ.get("IS_MOCK").lower() == 'false' or True
 
     if is_mock:
         logging.warn(f"Running in mocking environment")
