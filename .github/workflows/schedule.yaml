@@ -5,24 +5,27 @@ on:
     - cron: '*/2 * * * *'
   workflow_dispatch:
 
+env:
+  SLACK_PAYLOAD_FILE: /tmp/slack-payload.json
+  IS_MOCK: False
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Run Python script
-      uses: actions/setup-python@v2
+    - uses: actions/setup-python@v4
       with:
-        python-version: 3.8
+        python-version: '3.9'
+        cache: 'pip' 
+    - run: pip install -r requirements.txt
     - run: |
-        pip install -r requirements.txt
-        python main.py
-        - name: Slack Notification
+        python main.py CM4 > products.json
+        python notify_slack.py products.json ${{ env.SLACK_PAYLOAD_FILE }}
     - name: Slack Notification 
-      uses: rtCamp/action-slack-notify@v2
+      uses: slackapi/slack-github-action@v1.23.0
+      with:
+        payload-file-path: ${{ env.SLACK_PAYLOAD_FILE }}
       env:
-        SLACK_CHANNEL: 
-        SLACK_COLOR: ${{ job.status }} 
-        SLACK_ICON: https://github.com/rtCamp.png?size=48
-        SLACK_MESSAGE: 'CM4 is available! :rocket:'
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
