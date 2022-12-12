@@ -47,6 +47,10 @@ def get_products(res, models):
 
 def main(models):
     is_mock = os.environ.get("IS_MOCK") or True
+
+    if is_mock:
+        logging.warn(f"Running in mocking environment")
+
     try:
         return json.dumps(
             get_products(Rpilocator.send('us', is_mock=is_mock), models)
