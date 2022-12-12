@@ -13,6 +13,11 @@ Or you can run in "mock" mode, which will simply load the mock.json as stub cont
 IS_MOCK=True python3 main.py CM4
 ```
 
+# Run in your environment
+1. clone this repo
+2. add a secret (Settings -> Security -> Actions -> Repository secrets) named SLACK_WEBHOOK_URL
+3. paste in your slack webhook url
+
 # How it works
 1. Retrieve token from https://rpilocator.com/
 2. Makes a subsequent call (see src/api.py) for implementation details
