@@ -1,7 +1,15 @@
 import jmespath
-import sys
 import json
+import logging
+import os
+import sys
+
 from src.api import Rpilocator
+
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger("requests.packages.urllib3")
+logger.setLevel(logging.DEBUG)
+logger.propagate = True
 
 
 def format_items(items):
@@ -18,8 +26,11 @@ def format_items(items):
     return items
 
 def get_products(res, models):
+    logging.info(f"total items: {len(res['data'])}")
+
     base_criteria = f"data[?avail == 'Yes']"
     matching_items = jmespath.search(base_criteria, res)
+    logging.info(f"total available item(s): {len(matching_items)}")
 
     if models:
         model_criterias = set()
@@ -30,13 +41,19 @@ def get_products(res, models):
         # e.g: [?contains(sku, 'CM4') || contains(sku, 'RPI4')]
         model_criterias = f"[?{' || '.join(model_criterias)}]"
         matching_items = jmespath.search(model_criterias, matching_items)
+        logging.info(f"total matching item(s): {len(matching_items)}")
     
     return format_items(matching_items)
 
 def main(models):
-    return json.dumps(
-        get_products(Rpilocator.send('us', is_mock=True), models)
-    )
+    is_mock = os.environ.get("IS_MOCK") or True
+    try:
+        return json.dumps(
+            get_products(Rpilocator.send('us', is_mock=is_mock), models)
+        )
+    except AssertionError:
+        print("No available products")
+        sys.exit(1)
 
 if __name__ == "__main__":
     target_models = sys.argv[1:]

@@ -15,7 +15,6 @@ class RpilocatorAPI:
         token_text = re.findall(r"localToken=\"(.*)\"", res.text)
         cookies = res.cookies
 
-
         if len(token_text) != 1:
             raise RuntimeError("unable to retrieve token")
 
@@ -32,7 +31,6 @@ class RpilocatorAPI:
 
         res = requests.get(url, headers=headers)
         res.raise_for_status()
-
         return res.json()
 
 
