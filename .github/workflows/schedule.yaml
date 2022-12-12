@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  SLACK_PAYLOAD_OUTPUT: /tmp/slack-payload.json
+  SLACK_PAYLOAD_FILE: /tmp/slack-payload.json
 
 jobs:
   build:
@@ -19,13 +19,14 @@ jobs:
         cache: 'pip' 
     - run: pip install -r requirements.txt
     - run: |
-        ./notify_slack.sh ${{ env.SLACK_PAYLOAD_OUTPUT }}
+        python main.py CM4 > products.json
+        python notify_slack.sh products.json ${{ env.SLACK_PAYLOAD_FILE }}
     - name: Setup upterm session
       uses: lhotari/action-upterm@v1
     - name: Slack Notification 
       uses: slackapi/slack-github-action@v1.23.0
       with:
-        payload-file-path: ${{ env.SLACK_PAYLOAD_OUTPUT }}
+        payload-file-path: ${{ env.SLACK_PAYLOAD_FILE }}
       env:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
