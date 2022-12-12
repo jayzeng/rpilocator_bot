@@ -50,14 +50,15 @@ def main(country, models):
 
     if is_mock:
         logging.warn(f"Running in mocking environment")
+    
+    products = []
 
     try:
-        return json.dumps(
-            get_products(Rpilocator.send(country, is_mock=is_mock), models)
-        )
+        products = get_products(Rpilocator.send(country, is_mock=is_mock), models)
     except AssertionError:
         logging.info("No available products")
-        return []
+
+    return json.dumps(products)
 
 if __name__ == "__main__":
     country, target_models = sys.argv[1], sys.argv[2:]
