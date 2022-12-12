@@ -712,7 +712,7 @@
 			},
 			"vendor": "Pishop (US)",
 			"sku": "CM4102008",
-			"avail": "No",
+			"avail": "Yes",
 			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-8gb-cm4102008/",
 			"last_stock": {
 				"sort": "2022-04-30",

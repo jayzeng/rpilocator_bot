@@ -13,15 +13,26 @@ jobs:
     - uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-        cache: 'pip' # caching pip dependencies
+        cache: 'pip' 
     - run: pip install -r requirements.txt
     - run: |
         python main.py
     - name: Slack Notification 
-      uses: rtCamp/action-slack-notify@v2
+      uses: slackapi/slack-github-action@v1.23.0
+      with:
+        payload: |
+          {
+            "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                }
+              }
+            ]
+          }
       env:
-        SLACK_CHANNEL: 
-        SLACK_COLOR: ${{ job.status }} 
-        SLACK_ICON: https://github.com/rtCamp.png?size=48
-        SLACK_MESSAGE: 'CM4 is available! :rocket:'
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
