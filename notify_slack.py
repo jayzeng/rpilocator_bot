@@ -7,6 +7,8 @@ def make_slack_payload_file(output_file, items):
 
     for item in items:
         body.append(f"- {item['description']}, ${item['price']['display']} {item['price']['currency']} ({item['vendor']}), {item['link']}")
+    
+    body = '\n'.join(body) if body else 'no product available'
 
     slack_payload = {
         "text": subject,
@@ -14,7 +16,7 @@ def make_slack_payload_file(output_file, items):
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": '\n'.join(body)
+                "text": body
             }
         }]
     }
