@@ -7,7 +7,7 @@ on:
 
 env:
   SLACK_PAYLOAD_FILE: /tmp/slack-payload.json
-  : False
+  IS_MOCK: False
 
 jobs:
   build:
