@@ -752,7 +752,7 @@
 			},
 			"vendor": "Pishop (US)",
 			"sku": "CM4104032",
-			"avail": "No",
+			"avail": "Yes",
 			"link": "https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-4gb-32gb-cm4104032/",
 			"last_stock": {
 				"sort": "2022-04-29",
