@@ -2,7 +2,7 @@ import json
 import sys
 
 def make_slack_payload_file(output_file, items):
-    subject = f"{len(items)} available!"
+    subject = f"{len(items)} product available!"
     body = []
 
     for item in items:
