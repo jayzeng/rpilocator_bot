@@ -20,9 +20,7 @@ jobs:
     - run: pip install -r requirements.txt
     - run: |
         python main.py CM4 > products.json
-        python notify_slack.sh products.json ${{ env.SLACK_PAYLOAD_FILE }}
-    - name: Setup upterm session
-      uses: lhotari/action-upterm@v1
+        python notify_slack.py products.json ${{ env.SLACK_PAYLOAD_FILE }}
     - name: Slack Notification 
       uses: slackapi/slack-github-action@v1.23.0
       with:
