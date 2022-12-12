@@ -7,7 +7,7 @@ on:
 
 env:
   SLACK_PAYLOAD_FILE: /tmp/slack-payload.json
-  IS_MOCK: False
+  : False
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
         cache: 'pip' 
     - run: pip install -r requirements.txt
     - run: |
-        python main.py CM4 > products.json
+        python main.py us CM4 > products.json
         python notify_slack.py products.json ${{ env.SLACK_PAYLOAD_FILE }}
     - name: Slack Notification 
       uses: slackapi/slack-github-action@v1.23.0

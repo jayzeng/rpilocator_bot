@@ -45,7 +45,7 @@ def get_products(res, models):
     
     return format_items(matching_items)
 
-def main(models):
+def main(country, models):
     is_mock = os.environ.get("IS_MOCK", 'True').lower() == 'true'
 
     if is_mock:
@@ -53,12 +53,12 @@ def main(models):
 
     try:
         return json.dumps(
-            get_products(Rpilocator.send('us', is_mock=is_mock), models)
+            get_products(Rpilocator.send(country, is_mock=is_mock), models)
         )
     except AssertionError:
         print("No available products")
         sys.exit(1)
 
 if __name__ == "__main__":
-    target_models = sys.argv[1:]
-    print(main(target_models))
+    country, target_models = sys.argv[1], sys.argv[2:]
+    print(main(country, target_models))
