@@ -8,9 +8,13 @@ e.g:
 python3 main.py CM4 RPI4
 ```
 
+Or you can run in "mock" mode, which will simply load the mock.json as stub content
+```
+IS_MOCK=True python3 main.py CM4
+```
+
 # How it works
 1. Retrieve token from https://rpilocator.com/
 2. Makes a subsequent call (see src/api.py) for implementation details
 
 THANKS  https://rpilocator.com/! Please DO NOT USE this for commercial purpose
-
