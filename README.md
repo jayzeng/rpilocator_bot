@@ -18,6 +18,11 @@ IS_MOCK=True python3 main.py CM4
 2. add a secret (Settings -> Security -> Actions -> Repository secrets) named SLACK_WEBHOOK_URL
 3. paste in your slack webhook url
 
+Example output:
+![image](https://user-images.githubusercontent.com/141891/206967567-e9a25035-4081-4cc2-80f3-c2e32936b792.png)
+
+Slack message is only triggered if there are available products
+
 # How it works
 1. Retrieve token from https://rpilocator.com/
 2. Makes a subsequent call (see src/api.py) for implementation details
