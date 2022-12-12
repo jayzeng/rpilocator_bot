@@ -15,7 +15,7 @@ logger.propagate = True
 def format_items(items):
     assert len(items) > 0
 
-    fields = ['sku', 'vendor', 'description', 'link', "last_stock.display"]
+    fields = ['sku', 'vendor', 'price', 'description', 'link', "last_stock"]
     item_fields = items[0].keys()
     fields_to_remove = set(item_fields) - set(fields)
 
@@ -56,8 +56,8 @@ def main(country, models):
             get_products(Rpilocator.send(country, is_mock=is_mock), models)
         )
     except AssertionError:
-        print("No available products")
-        sys.exit(1)
+        logging.info("No available products")
+        return []
 
 if __name__ == "__main__":
     country, target_models = sys.argv[1], sys.argv[2:]

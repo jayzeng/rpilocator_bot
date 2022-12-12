@@ -6,7 +6,7 @@ def make_slack_payload_file(output_file, items):
     body = []
 
     for item in items:
-        body.append(f"- {item['description']} ({item['vendor']}), {item['link']}")
+        body.append(f"- {item['description']}, ${item['price']['display']} {item['price']['currency']} ({item['vendor']}), {item['link']}")
 
     slack_payload = {
         "text": subject,
