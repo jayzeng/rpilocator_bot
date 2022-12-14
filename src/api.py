@@ -1,4 +1,5 @@
 import json
+import logging
 import re
 import requests
 
@@ -18,21 +19,28 @@ class RpilocatorAPI:
         if len(token_text) != 1:
             raise RuntimeError("unable to retrieve token")
 
-        return (token_text[0],cookies.get('CFID'))
+        return (token_text[0], cookies.get('CFID'))
 
     def send(self):
         token, cfid = self.get_tokens()
-        url = f'https://rpilocator.com/data.cfm?method=getProductTable&token={token}&country={self.country.upper()}'
+        country = self.country.upper()
+        url = f'https://rpilocator.com/data.cfm?method=getProductTable&token={token}&country={country}'
 
         headers = {
             'cookie' : f'CFID={cfid}; CFTOKEN=0;',
+            'referer': f'https://rpilocator.com/?country={country}',
             'x-requested-with': 'XMLHttpRequest'
         }
 
         res = requests.get(url, headers=headers)
         res.raise_for_status()
-        return res.json()
-
+        try:
+            output = res.json()
+            logging.info(output)
+            return output
+        except Exception as e:
+            logging.exception(e.message)
+            return {}
 
 class RpilocatorMock:
     def __init__(self, country: str) -> None:
@@ -41,7 +49,6 @@ class RpilocatorMock:
     def send(self):
         with open('mock.json') as fr:
             return json.load(fr)
-
 
 class Rpilocator:
     @classmethod

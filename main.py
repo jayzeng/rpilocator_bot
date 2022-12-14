@@ -26,6 +26,8 @@ def format_items(items):
     return items
 
 def get_products(res, models):
+    assert len(res.get('data')) > 0
+
     logging.info(f"total items: {len(res['data'])}")
 
     base_criteria = f"data[?avail == 'Yes']"
