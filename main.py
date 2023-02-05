@@ -63,5 +63,10 @@ def main(country, models):
     return json.dumps(products)
 
 if __name__ == "__main__":
+    if len(sys.argv) < 3:
+        print("😑 Missing sufficient args, did you mean?")
+        print("IS_MOCK=True python3 main.py us CM4")
+        exit(1)
+
     country, target_models = sys.argv[1], sys.argv[2:]
     print(main(country, target_models))
