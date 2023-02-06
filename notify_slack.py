@@ -3,14 +3,14 @@ import sys
 
 def make_slack_payload_file(output_file, items):
     subject = f"{len(items)} product available!"
+    if not items:
+        return
+    
     body = []
 
     for item in items:
         body.append(f"- {item['description']}, ${item['price']['display']} {item['price']['currency']} ({item['vendor']}), {item['link']}")
 
-    if not body:
-        return
-    
     body = '\n'.join(body)
 
     slack_payload = {
